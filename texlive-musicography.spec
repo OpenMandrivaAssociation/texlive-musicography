@@ -1,6 +1,6 @@
 Name:		texlive-musicography
-Version:	53596
-Release:	2
+Version:	68220
+Release:	1
 Summary:	Accessing symbols for music writing with pdfLaTeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/musicography
